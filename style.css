@@ -1168,6 +1168,13 @@ footer {
     padding: 50px
 }
 
+.work-period {
+    color: #888;
+    font-size: 1.6rem;
+    margin-bottom: 0px;
+    font-style: italic;
+}
+
 .cta:hover:before,
 .project-box-wrapper {
     width: 100%
@@ -1218,14 +1225,14 @@ footer {
 
 .ProjectHeading {
     color: var(--color-white);
-    font-size: 3.4rem;
-    font-weight: 700
+    font-size: 2.4rem;
+    font-weight: 500
 }
 
 .ProjectDescription {
     color: gray;
     font-size: 1.7rem;
-    font-weight: 400
+    font-weight: 300
 }
 
 .project-buttons {
